@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @naufalauddin
+- 👀 I’m interested in Functional Programming, and Game Development
+- 🌱 I’m currently learning Haskell
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me through email naufalauddin@gmail.com
